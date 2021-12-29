@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<center><img href="https://github.com/firgadev29" src="./profil.png" heigh="200px"></center>
+<p align="center"><img href="https://github.com/firgadev29" src="./asnsans.png" height="325px"></p>
 
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
