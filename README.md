@@ -11,7 +11,5 @@
   <br>
 
 ### Github Statistic
-<a href="https://github.com/firgadev29">
-  <img style="display: flex; flex-direction: rows" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firgadev29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img style="display: flex; flex-direction: rows" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firgadev29&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+| <a href="https://github.com/firgadev29"><img align="center" src="https://github-readme-stats.vercel.app/api?username=firgadev29&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/firgadev29"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firgadev29&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
