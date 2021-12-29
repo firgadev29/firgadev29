@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<center><img href="https://github.com/firgadev29" src="./profil.png" heigh="200px"></center>
+
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: ismayoza@gmail.com
