@@ -1,4 +1,4 @@
-<p align="center"><img href="https://github.com/firgadev29" src="./asnsans.png" height="325px"></p>
+<p align="center"><img href="https://github.com/firgadev29" src="./firgapp.png" height="325px"></p>
 
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
